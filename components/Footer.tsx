@@ -121,7 +121,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10">
           <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-6 text-xs text-zinc-600 sm:flex-row sm:px-6 lg:px-8">
-            <p>© 2026 SafarNama Travel &amp; Tours. All rights reserved.</p>
+            <p>© 2026 SafarNama Travel &amp; Tours. All rights reserved. · Designed &amp; built by <a href="https://akclnt.com" className="hover:text-amber-300">AKCLNT</a></p>
             <p>Demo website — fictional business, crafted for illustration.</p>
           </div>
         </div>
